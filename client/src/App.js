@@ -3,7 +3,7 @@ import { ProductData } from './components/data/ProductData';
 import { ProductData2 } from './components/data/ProductData2';
 import { ProductData3 } from './components/data/ProductData3';
 import Main from "./components/Main";
-import Signup from "./components/Singup";
+import Signup from "./components/Signup";
 import Login from "./components/Login";
 import Product from "./components/Product/Product";
 import Product2 from "./components/Product/Product2";
